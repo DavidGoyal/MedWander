@@ -35,9 +35,9 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](</client/Screenshot 2024-09-14 105440.png>)
+![App Screenshot](<Screenshot 2024-09-14 105440.png>)
 
-![App Screenshot](</client/Screenshot 2024-09-14 105508.png>)
+![App Screenshot](<Screenshot 2024-09-14 105508.png>)
 
 ## Authors
 
