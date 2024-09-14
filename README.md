@@ -39,6 +39,10 @@ To run this project, you will need to add the following environment variables to
 
 ![App Screenshot](<Screenshot 2024-09-14 105508.png>)
 
+## Description
+
+This is a website made with ReactJS, Typescript, NodeJS, Express, MySQL, Google Sheets, and Google Scripts. A user can store their information in the cloud and the data gets uploaded to Google Sheets by clicking on a refresh button.
+
 ## Authors
 
 - [@LinkedIn](www.linkedin.com/in/david-goyal)
